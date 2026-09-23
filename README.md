@@ -37,9 +37,11 @@ a gate for casual visitors, not real security (same trade-off as any static site
 
 ## Important: set the real contact details
 
-- **WhatsApp number** is currently `447505764766` (the number used across the
-  other sites). If the clinic has its own line, change it in admin → Settings,
-  or edit `"settings" > "whatsapp"` in `data/site-data.json`.
+- **WhatsApp number** is currently a placeholder: `07700 900123`
+  (Ofcom's reserved fictional UK mobile range — safe to leave live, but no
+  real messages will reach anyone). Set the clinic's real number in admin →
+  Settings, or edit `"settings" > "whatsapp"` in `data/site-data.json`
+  (international format without the +, e.g. `447123456789`).
 - **Instagram handle** is `@nurseashthetics` — update if different.
 
 ## Structure
