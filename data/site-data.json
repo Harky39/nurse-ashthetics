@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "whatsapp": "447505764766",
+    "instagram": "@nurseashthetics"
+  },
+  "treatments": [
+    {
+      "name": "Anti-wrinkle",
+      "shortDesc": "Forehead, frown lines, crow's feet.",
+      "longDesc": "Softens forehead lines, frown lines and crow's feet. Subtle enough that people just think you look well-rested.",
+      "price": 150
+    },
+    {
+      "name": "Lip filler",
+      "shortDesc": "Shape, symmetry and hydration.",
+      "longDesc": "Shape, symmetry and hydration — from a barely-there boost to a fuller finish, always proportional to your face.",
+      "price": 180
+    },
+    {
+      "name": "Jaw & chin contouring",
+      "shortDesc": "Definition along the jawline and chin.",
+      "longDesc": "Dermal filler along the jawline and chin to sharpen and balance the lower face — the profile change shown above.",
+      "price": 280
+    },
+    {
+      "name": "Dermaplaning",
+      "shortDesc": "Exfoliation and peach fuzz removal.",
+      "longDesc": "A blade gently lifts dead skin and peach fuzz. Instantly smoother makeup application and brighter skin.",
+      "price": 45
+    },
+    {
+      "name": "Skin boosters",
+      "shortDesc": "Injectable hydration for skin quality.",
+      "longDesc": "Micro-injections of hydrating actives for skin that looks better on its own, not just under filter.",
+      "price": 180
+    },
+    {
+      "name": "Lip flip",
+      "shortDesc": "Subtle upper lip roll, no filler.",
+      "longDesc": "A small amount of anti-wrinkle treatment relaxes the top lip so it rolls out slightly for more visible pink.",
+      "price": 100
+    }
+  ],
+  "offer": {
+    "enabled": true,
+    "percent": 20,
+    "headline": "New client? Get 20% off your first treatment.",
+    "detail": "Valid on your first visit only. Can't be combined with other offers. Mention this offer when you book — it's applied automatically in the quote builder below."
+  },
+  "slots": [
+    { "id": "s1", "date": "2026-09-29", "time": "10:00", "location": "Clinic — Atherton" },
+    { "id": "s2", "date": "2026-09-29", "time": "14:30", "location": "Clinic — Atherton" },
+    { "id": "s3", "date": "2026-10-02", "time": "18:00", "location": "Home visit" }
+  ]
+}
