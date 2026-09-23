@@ -122,7 +122,7 @@ p{ margin:0; }
   box-shadow:var(--shadow-lg); background:#E9E4DC;
   --pos:50%;
 }
-.ba-img{ width:100%; height:auto; aspect-ratio:472/459; object-fit:cover; }
+.ba-img{ width:100%; height:auto; aspect-ratio:1/1; object-fit:cover; }
 .ba-after-wrap{ position:absolute; inset:0; clip-path:inset(0 0 0 var(--pos)); }
 .ba-handle{
   position:absolute; top:0; bottom:0; left:var(--pos); width:2px; background:#fff;
